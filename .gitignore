@@ -1,0 +1,7 @@
+./env3
+*.csv
+*.xlsx
+*.log
+*.exe
+!db.csv
+!number.csv
