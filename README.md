@@ -4,3 +4,7 @@
 - https://www.tutorialspoint.com/how-to-find-parent-elements-by-python-webdriver
 - https://stackoverflow.com/questions/22392799/python-selenium-print-xpath-value
 - https://github.com/mozilla/geckodriver/releases
+  
+# Instruction
+- Python 3.8+
+- python -m pip install -r requirements.txt
