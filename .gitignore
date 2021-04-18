@@ -1,4 +1,5 @@
-./env3
+env3
+.vscode
 *.csv
 *.xlsx
 *.log
